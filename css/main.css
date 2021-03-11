@@ -26,14 +26,14 @@ ul, nav {
   color: #93a1a1;
 }
 
-.dfn:first-child {
+.wrapper > .dfn {
   background-color: #b58900;
 }
 
-strong:last-child {
+.dfn + strong {
   color: #fff;
 }
 
-a .no-highlight {
+a  {
   background-color: #719e07;
 }
