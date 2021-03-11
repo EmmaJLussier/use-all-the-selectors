@@ -33,3 +33,7 @@ ul, nav {
 strong:last-child {
   color: #fff;
 }
+
+a .no-highlight {
+  background-color: #719e07;
+}
