@@ -29,3 +29,7 @@ ul, nav {
 .dfn:first-child {
   background-color: #b58900;
 }
+
+strong:last-child {
+  color: #fff;
+}
